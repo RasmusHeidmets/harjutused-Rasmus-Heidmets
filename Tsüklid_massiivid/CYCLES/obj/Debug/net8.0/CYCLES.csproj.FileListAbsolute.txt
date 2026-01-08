@@ -1,0 +1,15 @@
+C:\Users\opilane\source\repos\harjutused Rasmus Heidmets\Tsüklid_massiivid\CYCLES\bin\Debug\net8.0\CYCLES.exe
+C:\Users\opilane\source\repos\harjutused Rasmus Heidmets\Tsüklid_massiivid\CYCLES\bin\Debug\net8.0\CYCLES.deps.json
+C:\Users\opilane\source\repos\harjutused Rasmus Heidmets\Tsüklid_massiivid\CYCLES\bin\Debug\net8.0\CYCLES.runtimeconfig.json
+C:\Users\opilane\source\repos\harjutused Rasmus Heidmets\Tsüklid_massiivid\CYCLES\bin\Debug\net8.0\CYCLES.dll
+C:\Users\opilane\source\repos\harjutused Rasmus Heidmets\Tsüklid_massiivid\CYCLES\bin\Debug\net8.0\CYCLES.pdb
+C:\Users\opilane\source\repos\harjutused Rasmus Heidmets\Tsüklid_massiivid\CYCLES\obj\Debug\net8.0\CYCLES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\harjutused Rasmus Heidmets\Tsüklid_massiivid\CYCLES\obj\Debug\net8.0\CYCLES.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\harjutused Rasmus Heidmets\Tsüklid_massiivid\CYCLES\obj\Debug\net8.0\CYCLES.AssemblyInfo.cs
+C:\Users\opilane\source\repos\harjutused Rasmus Heidmets\Tsüklid_massiivid\CYCLES\obj\Debug\net8.0\CYCLES.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\harjutused Rasmus Heidmets\Tsüklid_massiivid\CYCLES\obj\Debug\net8.0\CYCLES.sourcelink.json
+C:\Users\opilane\source\repos\harjutused Rasmus Heidmets\Tsüklid_massiivid\CYCLES\obj\Debug\net8.0\CYCLES.dll
+C:\Users\opilane\source\repos\harjutused Rasmus Heidmets\Tsüklid_massiivid\CYCLES\obj\Debug\net8.0\refint\CYCLES.dll
+C:\Users\opilane\source\repos\harjutused Rasmus Heidmets\Tsüklid_massiivid\CYCLES\obj\Debug\net8.0\CYCLES.pdb
+C:\Users\opilane\source\repos\harjutused Rasmus Heidmets\Tsüklid_massiivid\CYCLES\obj\Debug\net8.0\CYCLES.genruntimeconfig.cache
+C:\Users\opilane\source\repos\harjutused Rasmus Heidmets\Tsüklid_massiivid\CYCLES\obj\Debug\net8.0\ref\CYCLES.dll
