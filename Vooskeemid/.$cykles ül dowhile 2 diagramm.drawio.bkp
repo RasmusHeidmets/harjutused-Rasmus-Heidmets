@@ -81,7 +81,7 @@
         <mxCell id="V3lDnEFj2ia_nCwrswGM-11" value="kuva kasutajale muutuja &quot;arv&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240" y="490" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="V3lDnEFj2ia_nCwrswGM-24" value="lõpp" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="V3lDnEFj2ia_nCwrswGM-24" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="260" y="610" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
