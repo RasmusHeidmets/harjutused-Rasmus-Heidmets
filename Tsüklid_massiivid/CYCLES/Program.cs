@@ -1,28 +1,28 @@
-﻿namespace CYCLES
-{
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
-            /* Do-while ülesanded*/
+﻿////namespace CYCLES
+////{
+////    internal class Program
+////    {
+////        static void Main(string[] args)
+////        {
+//            /* Do-while ülesanded*/
 
-            // 1. "arvuta kuni summani"
-            // tee muutuja "täisarv" mille sees on täisarv 0
-            // kirjuta do while tsükkel
-            // tsükli tegevusena lahuta muutujast "täisarv" maha 2
-            // ja kuva muutuja "täisarv" välja
-            // -> do while tsükli tingimuseks kirjuta kontroll, mis kontrollib kas muutujas "täisarv" on arv miinuses rohkem kui -31
-            // peale tsüklit kuva sõnum "tsükkel lõppes"
+//            // 1. "arvuta kuni summani"
+//            // tee muutuja "täisarv" mille sees on täisarv 0
+//            // kirjuta do while tsükkel
+//            // tsükli tegevusena lahuta muutujast "täisarv" maha 2
+//            // ja kuva muutuja "täisarv" välja
+//            // -> do while tsükli tingimuseks kirjuta kontroll, mis kontrollib kas muutujas "täisarv" on arv miinuses rohkem kui -31
+//            // peale tsüklit kuva sõnum "tsükkel lõppes"
 
-            int täisarv =0;
-            do
-            {
-                täisarv -= 2;
-                Console.WriteLine(täisarv);
-            }
-            while (täisarv > -31);
-            Console.WriteLine("tsükkel lõppes.");
-            
+//            int täisarv =0;
+//            do
+//            {
+//                täisarv -= 2;
+//                Console.WriteLine(täisarv);
+//            }
+//            while (täisarv > -31);
+//            Console.WriteLine("tsükkel lõppes.");
+
 
 
             // 2. "pikenda sõnumit"
@@ -48,6 +48,29 @@
             /* 
              * NB programm peab niikaua käima kuni kasutaja sisestus on suurem või võrdne kui 40.000
              */
+
+            float CO2tase = 0.0f;
+
+            while (CO2tase  <= 40f)
+{
+    Console.WriteLine("mis on co2 tase?");
+    CO2tase = float.Parse(Console.ReadLine());
+    if (CO2tase <= 40f) { 
+    Console.WriteLine("otsest ohtu pole");
+    }
+
+}
+Console.WriteLine("evakueerige hoonest, co2 tase on liiga kõrge!");
+            
+
+
+
+
+
+
+
+
+               
 
             // 2. "vibumees"
             // tee muutuja "mehike" mille sees on täisarv 0
@@ -77,14 +100,14 @@
             // tsükli tegevusena kuva kasutajale välja i, aga liida sellele üks juurde et lugemine algaks arvust 1
             // peale tsüklit kuva kasutajale sõnum "tsükkel lõppes"
 
-            int kuipalju = 0;
-            Console.WriteLine("mitu numbrit te tahate?");
-            kuipalju = int.Parse(Console.ReadLine());
-            for (int i = 0; i<kuipalju; i++)
-            {
-                Console.WriteLine(i+1);
-            }
-            Console.WriteLine("tsükkel lõppes");
+            //int kuipalju = 0;
+            //Console.WriteLine("mitu numbrit te tahate?");
+            //kuipalju = int.Parse(Console.ReadLine());
+            //for (int i = 0; i<kuipalju; i++)
+            //{
+            //    Console.WriteLine(i+1);
+            //}
+            //Console.WriteLine("tsükkel lõppes");
 
 
             // 2. "Ruut"
@@ -124,14 +147,14 @@
              * kui programm on õigesti kirjutatud, 
              * siis kuvatakse kasutajale välja elemendid kakskümmend ja viiskümmend
              */
-            int[] apelsinimahl = [1, 50, 10, 15, 20];
-            foreach (var arv  in apelsinimahl)
-            {
-                if (arv > 15)
-                {
-                    Console.WriteLine(arv);
-                }
-            }
+            //int[] apelsinimahl = [1, 50, 10, 15, 20];
+            //foreach (var arv  in apelsinimahl)
+            //{
+            //    if (arv > 15)
+            //    {
+            //        Console.WriteLine(arv);
+            //    }
+            //}
 
 
 
@@ -142,6 +165,6 @@
             // tsükli sisse liida oma täisarvu tüüpi muutujale elemendi sees olev arv juurde
             // peale tsüklit kuva kasutajale oma täisarvu tüüpi muutuja välja
 
-        }
-    }
-}
+//        }
+//    }
+//}
