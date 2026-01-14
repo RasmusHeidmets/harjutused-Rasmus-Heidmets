@@ -1,0 +1,40 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.2.5 Chrome/138.0.7204.251 Electron/37.6.1 Safari/537.36" version="28.2.5">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1317" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="JnXnvxVhThmGMnHoVn7B-0" value="// 2. &quot;vibumees&quot;&#xa;            // tee muutuja &quot;mehike&quot; mille sees on täisarv 0&#xa;            // tee muutuja &quot;vastus&quot; mille sees on tühi tekst&#xa;            // kirjuta while tsükkel&#xa;            // -&gt; while tsükli tingimuseks kirjuta kontroll:&#xa;            //      mis kontrollib kas muutujas &quot;mehike&quot; on täisarv 5 või vähem&#xa;            //      või&#xa;            //      muutujas &quot;vastus&quot; on tekst &quot;jah&quot;&#xa;            // tsükli tegevuseks küsi kasutajalt &quot;kas tahad mehikesse noole lasta?&quot;&#xa;            // tsükli tegevuseks pane muutujasse &quot;vastus&quot; väärtus kasutajalt käsurea pealt &#xa;            // tsükli tegevuseks kontrolli tingimuslausega kas vastus oli &quot;jah&quot;&#xa;            // tsükli tegevuseks Kui tingimuslause vastus oli jah, siis:&#xa;            // kuva kasutajale tekst &quot;mitu noolt lased?&quot;&#xa;            // lisa muutujasse &quot;mehike&quot; kasutajalt saadud täisarv&#xa;            // peale tsüklit kontrolli kas muutujas &quot;mehike&quot; olev arv on väiksem kui 5&#xa;            // kui on väiksem kui 5 siis kuva sõnum &quot;mehike elab :D&quot;&#xa;            // kõikidel muudel juhtudel kuva sõnum &quot;tapsid mehikese ära :c&quot;" style="text;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="40" width="640" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="JnXnvxVhThmGMnHoVn7B-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JnXnvxVhThmGMnHoVn7B-1" target="JnXnvxVhThmGMnHoVn7B-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JnXnvxVhThmGMnHoVn7B-1" value="algus" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="210" y="355" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JnXnvxVhThmGMnHoVn7B-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JnXnvxVhThmGMnHoVn7B-2" target="JnXnvxVhThmGMnHoVn7B-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JnXnvxVhThmGMnHoVn7B-2" value="tekita muutuja &quot;mehike&quot;, millele omistame algse väärtuse 0" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="190" y="445" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JnXnvxVhThmGMnHoVn7B-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JnXnvxVhThmGMnHoVn7B-4" target="JnXnvxVhThmGMnHoVn7B-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JnXnvxVhThmGMnHoVn7B-4" value="tekita muutuja &quot;vastus&quot;, millele sees on tühi tekst" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="190" y="525" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JnXnvxVhThmGMnHoVn7B-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JnXnvxVhThmGMnHoVn7B-6" target="JnXnvxVhThmGMnHoVn7B-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JnXnvxVhThmGMnHoVn7B-6" value="kas väärtus muutujas &quot;mehike&quot; on suurem või võrdne 5-ga?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="205" y="610" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JnXnvxVhThmGMnHoVn7B-8" value="kas väärtus muutujas &quot;vastus&quot; on jah?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="205" y="720" width="130" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
