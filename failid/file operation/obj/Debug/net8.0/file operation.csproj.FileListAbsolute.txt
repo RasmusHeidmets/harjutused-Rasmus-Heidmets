@@ -1,0 +1,15 @@
+C:\Users\opilane\source\repos\harjutused Rasmus Heidmets\failid\file operation\bin\Debug\net8.0\file operation.exe
+C:\Users\opilane\source\repos\harjutused Rasmus Heidmets\failid\file operation\bin\Debug\net8.0\file operation.deps.json
+C:\Users\opilane\source\repos\harjutused Rasmus Heidmets\failid\file operation\bin\Debug\net8.0\file operation.runtimeconfig.json
+C:\Users\opilane\source\repos\harjutused Rasmus Heidmets\failid\file operation\bin\Debug\net8.0\file operation.dll
+C:\Users\opilane\source\repos\harjutused Rasmus Heidmets\failid\file operation\bin\Debug\net8.0\file operation.pdb
+C:\Users\opilane\source\repos\harjutused Rasmus Heidmets\failid\file operation\obj\Debug\net8.0\file operation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\harjutused Rasmus Heidmets\failid\file operation\obj\Debug\net8.0\file operation.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\harjutused Rasmus Heidmets\failid\file operation\obj\Debug\net8.0\file operation.AssemblyInfo.cs
+C:\Users\opilane\source\repos\harjutused Rasmus Heidmets\failid\file operation\obj\Debug\net8.0\file operation.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\harjutused Rasmus Heidmets\failid\file operation\obj\Debug\net8.0\file operation.sourcelink.json
+C:\Users\opilane\source\repos\harjutused Rasmus Heidmets\failid\file operation\obj\Debug\net8.0\file operation.dll
+C:\Users\opilane\source\repos\harjutused Rasmus Heidmets\failid\file operation\obj\Debug\net8.0\refint\file operation.dll
+C:\Users\opilane\source\repos\harjutused Rasmus Heidmets\failid\file operation\obj\Debug\net8.0\file operation.pdb
+C:\Users\opilane\source\repos\harjutused Rasmus Heidmets\failid\file operation\obj\Debug\net8.0\file operation.genruntimeconfig.cache
+C:\Users\opilane\source\repos\harjutused Rasmus Heidmets\failid\file operation\obj\Debug\net8.0\ref\file operation.dll
