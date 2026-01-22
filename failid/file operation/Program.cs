@@ -28,7 +28,7 @@ namespace file_operation
                 while (readFile.EndOfStream == false)
                 {
                     string line = readFile.ReadLine();
-                    foreach (var word Ain readFile.ReadLine())
+                    foreach (var word in readFile.ReadLine())
                     {
                         if (line.Contains(findthisword) == true)
                         {

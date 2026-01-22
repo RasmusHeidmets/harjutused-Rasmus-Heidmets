@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35913.81 d17.13
+VisualStudioVersion = 17.13.35913.81
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "file operation", "file operation.csproj", "{4062C9B6-BE68-417E-816A-02CB8ADD4D98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "failmeetod1", "..\failmeetod1\failmeetod1.csproj", "{85E03B3C-A473-495D-ACB5-17B431B9199E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{4062C9B6-BE68-417E-816A-02CB8ADD4D98}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4062C9B6-BE68-417E-816A-02CB8ADD4D98}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4062C9B6-BE68-417E-816A-02CB8ADD4D98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85E03B3C-A473-495D-ACB5-17B431B9199E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85E03B3C-A473-495D-ACB5-17B431B9199E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85E03B3C-A473-495D-ACB5-17B431B9199E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85E03B3C-A473-495D-ACB5-17B431B9199E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
