@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{4062C9B6-BE68-417E-816A-02CB8ADD4D98}|file operation.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4062C9B6-BE68-417E-816A-02CB8ADD4D98}|file operation.csproj|c:\\users\\opilane\\source\\repos\\harjutused rasmus heidmets\\failid\\file operation\\file operation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4062C9B6-BE68-417E-816A-02CB8ADD4D98}|file operation.csproj|solutionrelative:file operation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4062C9B6-BE68-417E-816A-02CB8ADD4D98}|file operation.csproj|c:\\users\\opilane\\source\\repos\\harjutused rasmus heidmets\\failid\\file operation\\laulus\u00F5nad.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{4062C9B6-BE68-417E-816A-02CB8ADD4D98}|file operation.csproj|solutionrelative:laulus\u00F5nad.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4062C9B6-BE68-417E-816A-02CB8ADD4D98}|file operation.csproj|c:\\users\\opilane\\source\\repos\\harjutused rasmus heidmets\\failid\\file operation\\file operation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4062C9B6-BE68-417E-816A-02CB8ADD4D98}|file operation.csproj|solutionrelative:file operation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,20 +34,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "file operation",
+              "DocumentIndex": 2,
+              "Title": "file operation.csproj",
               "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\harjutused Rasmus Heidmets\\failid\\file operation\\file operation.csproj",
               "RelativeDocumentMoniker": "file operation.csproj",
               "ToolTip": "C:\\Users\\opilane\\source\\repos\\harjutused Rasmus Heidmets\\failid\\file operation\\file operation.csproj",
               "RelativeToolTip": "file operation.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-22T08:00:57.574Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T08:00:57.574Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "laulus\u00F5nad.txt",
               "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\harjutused Rasmus Heidmets\\failid\\file operation\\laulus\u00F5nad.txt",
               "RelativeDocumentMoniker": "laulus\u00F5nad.txt",
@@ -66,7 +65,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\opilane\\source\\repos\\harjutused Rasmus Heidmets\\failid\\file operation\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAA9wD0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-22T07:27:35.719Z",
               "EditorCaption": ""

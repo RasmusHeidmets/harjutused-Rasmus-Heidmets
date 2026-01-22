@@ -14,7 +14,30 @@ namespace file_operation
             //File.WriteAllText(filepath, aadress);
 
             Console.WriteLine("kõik laulu sõnad");
-            DisplayThisFile();
+            //DisplayThisFile();
+
+            FindWord("hot");
+        }
+        public static void FindWord(string findthisword)
+        {
+            using (StreamReader readFile = new StreamReader(
+                "C:\\Users\\opilane\\source\\repos\\harjutused Rasmus Heidmets\\failid\\file operation\\laulusõnad.txt"
+                ))
+            {
+                int lnr = 0;
+                while (readFile.EndOfStream == false)
+                {
+                    string line = readFile.ReadLine();
+                    foreach (var word Ain readFile.ReadLine())
+                    {
+                        if (line.Contains(findthisword) == true)
+                        {
+                            Console.WriteLine(findthisword + "leiti reast" + lnr);
+                        }
+                    }
+                }
+                readFile.Close();
+            }
         }
         private static void DisplayThisFile()
         {
